@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started to code in 2021, always wanted to be a software engineer<br>📚 I'm currently learning React Nativr<br>🎯 Goals: I want to get into Artificial Intelligence</p>
+<p align="left">✨ Started to code in 2021, always wanted to be a software engineer<br>📚 I'm currently learning Expo React Native<br>🎯 Goals: I want to get into Artificial Intelligence</p>
 
 ###
 
