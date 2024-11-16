@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gul Ali and I'm a self taught, passionate programmer.</p>
+<p align="left">My name is Gul Ali and I'm a self taught programmer.</p>
 
 ###
 
